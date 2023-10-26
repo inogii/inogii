@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **ai, ml, deeplearning**
 
-- 📫 How to reach me **inigogvvallejo@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/inigo-varas/](https://www.linkedin.com/in/inigo-varas/)
 
 <h3 align="left">Connect with me:</h3>
