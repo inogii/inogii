@@ -15,4 +15,5 @@ I'm Iñigo Varas
 - E-mail: inigogvvallejo@gmail.com
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/inigo-varas/)
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,linux,docker,kubernetes,git,c,matlab,java,javascript&perline=4)](https://skillicons.dev)
+[![Actively using](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,linux,docker,kubernetes,git,c,matlab,java,javascript)](https://skillicons.dev)
+[![Foundational knowledge](https://skillicons.dev/icons?i=c,matlab,java,javascript,html,css,bootstrap,nodejs,express,vim)](https://skillicons.dev)
