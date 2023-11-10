@@ -6,9 +6,9 @@
 I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m 🤓. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
 
 ## 🎓 Education:
-- UPM - BEng in Telecommunication Technologies and Services
-- TUM - MSc Computer Science, MSc in Communications Engineering (Exchange)
 - uc3m - MSc Applied Artificial Intelligence
+- TUM - MSc Computer Science, MSc in Communications Engineering (Exchange)
+- UPM - BEng in Telecommunication Technologies and Services
 
 ## 📌 Projects:
 - [Autonomous System Models using BGP Data and GNNs](https://github.com/inogii/bthesis): Performed research in the field of networking, merging the knowledge of BGP Networks —the paramount routing protocol in the Internet— with a cutting-edge Machine Learning methodology utilizing Graph Neural Networks. Implemented an innovative approach to derive essential properties of Autonomous Systems, the integral components within BGP Networks, resulting in profound insights into their behavior and interrelationships
