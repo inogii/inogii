@@ -3,7 +3,7 @@
     <h3>Hey! 👋</h3>
 </div>
 
-I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m 🤓. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
+I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
 
 ## 🎓 Education:
 - uc3m - MSc Applied Artificial Intelligence
