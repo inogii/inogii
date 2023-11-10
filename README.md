@@ -16,7 +16,6 @@ I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial I
 - [Balto-ai](https://devpost.com/software/balto-ai?ref_content=user-portfolio&ref_feature=in_progress): Project developed for the TUM-Ai Hackathon (May 2023). The goal of the project was to reduce the language barriers for emigrating workers by automating reporting processes for them. We developed a Telegram bot that could use the employer's and employee's language simultaneously, facilitating the communication between them.
 
 ## 📢 Contacts:
-- E-mail: inigogvvallejo@gmail.com
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/inigo-varas/)
 ## Skills:
 ### Actively using
