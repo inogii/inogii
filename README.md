@@ -4,7 +4,7 @@ I'm Iñigo Varas
 ## 🎓 Education:
 - UPM - BEng in Telecommunication Technologies and Services Engineering
 - TUM - Master in Computer Science, Master in Communications Engineering (Exchange)
-- UC3m - MSc Applied Artificial Intelligence
+- uc3m - MSc Applied Artificial Intelligence
 
 ## 📌 Projects:
 - [Autonomous System Models using BGP Data and GNNs](https://github.com/inogii/bthesis): Performed research in the field of networking, merging the knowledge of BGP Networks —the paramount routing protocol in the Internet— with a cutting-edge Machine Learning methodology utilizing Graph Neural Networks. Implemented an innovative approach to derive essential properties of Autonomous Systems, the integral components within BGP Networks, resulting in profound insights into their behavior and interrelationships
