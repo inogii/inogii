@@ -1,5 +1,5 @@
-# Hi everyone 
-I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m. Here you will see the projects that I have developed in the past years and I can publicly share. 
+# Hi everyone 😁
+I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m 🤓. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
 
 ## 🎓 Education:
 - UPM - BEng in Telecommunication Technologies and Services
