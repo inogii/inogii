@@ -1,5 +1,5 @@
 <div>
-    <img width="16" align="left" src='https://github.com/inogii/inogii/pikachu.gif' />
+    <img width="16" align="left" src='https://github.com/inogii/inogii/blob/main/pikachu.gif'/>
     <h3>&nbsp; Hey! 👋</h3>
 </div>
 
