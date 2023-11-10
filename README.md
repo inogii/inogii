@@ -1,9 +1,9 @@
 # Hi everyone 
-I'm Iñigo Varas
+I'm **Iñigo Varas** (@inogii) currently studying my MSc in Applied Artificial Intelligence @uc3m. Here you will see the projects that I have developed in the past years and I can publicly share. 
 
 ## 🎓 Education:
-- UPM - BEng in Telecommunication Technologies and Services Engineering
-- TUM - Master in Computer Science, Master in Communications Engineering (Exchange)
+- UPM - BEng in Telecommunication Technologies and Services
+- TUM - MSc Computer Science, MSc in Communications Engineering (Exchange)
 - uc3m - MSc Applied Artificial Intelligence
 
 ## 📌 Projects:
