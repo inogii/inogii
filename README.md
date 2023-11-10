@@ -16,6 +16,6 @@ I'm Iñigo Varas
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/inigo-varas/)
 ## Skills:
 ### Actively using
-[![Actively using](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,linux,docker,kubernetes,git)](https://skillicons.dev)
+[![Actively using](https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,linux,bash,docker,kubernetes,git,github,vscode)](https://skillicons.dev)
 ### Foundational knowledge
 [![Foundational knowledge](https://skillicons.dev/icons?i=c,matlab,java,javascript,html,css,bootstrap,nodejs,express,vim)](https://skillicons.dev)
