@@ -28,5 +28,5 @@ I'm **Iñigo Varas** (@inogii) currently studying a MSc in Applied Artificial In
 - A movie: [Interstellar](https://www.justwatch.com/us/movie/interstellar)
 - A song: [One Summer's Day - Joe Hisaishi](https://www.youtube.com/watch?v=TK1Ij_-mank)
 - A book: [The Angel's Game](https://www.amazon.es/Angels-Game-Cemetery-Forgotten-Books-ebook/dp/B002VBV1J0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-- A videogame: [Pokémon Mystery Dungeon - Explorers of Sky](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky)
 - A video: [The Breathtaking World Of One Piece](https://www.youtube.com/watch?v=AcSVkCNDLZg)
+- A videogame: [Pokémon Mystery Dungeon - Explorers of Sky](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky)
