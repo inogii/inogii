@@ -3,7 +3,7 @@
     <h3>Hey! 👋</h3>
 </div>
 
-I'm **Iñigo Varas** (@inogii) currently studying a MSc in Applied Artificial Intelligence @uc3m. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
+I'm **Iñigo Varas** (@inogii) AI Engineer @HPE and previously MSc in Applied Artificial Intelligence student @uc3m. Here you will see the projects that I have developed in the past years and I can publicly share, enjoy the read 😇
 
 ## 🎓 Education
 - uc3m - MSc Applied Artificial Intelligence
@@ -11,8 +11,8 @@ I'm **Iñigo Varas** (@inogii) currently studying a MSc in Applied Artificial In
 - UPM - BEng in Telecommunication Technologies and Services
 
 ## 📌 Projects
-- [Autonomous System Models using BGP Data and GNNs](https://github.com/inogii/bthesis): (national thesis award: 1st place) Performed research in the field of networking, merging the knowledge of BGP Networks —the paramount routing protocol in the Internet— with a cutting-edge Machine Learning methodology utilizing Graph Neural Networks. Implemented an innovative approach to derive essential properties of Autonomous Systems, the integral components within BGP Networks, resulting in profound insights into their behavior and interrelationships
-- [lacasademickeymouse](https://github.com/inogii/lacasademickeymouse): (winning project) Developed as part of the Machine Learning course at uc3m, the primary goal was to create a model that could predict the price of houses to participate in the course's competition. The two key components that made our model outperform others were the usage of state of the art techniques (smote-smogn) and the exploration of non linear relations among our features.
+- [Autonomous System Models using BGP Data and GNNs](https://github.com/inogii/bthesis): (1st place national thesis award) Performed research in the field of networking, merging the knowledge of BGP Networks —the paramount routing protocol in the Internet— with a cutting-edge Machine Learning methodology utilizing Graph Neural Networks. Implemented an innovative approach to derive essential properties of Autonomous Systems, the integral components within BGP Networks, resulting in profound insights into their behavior and interrelationships
+- [lacasademickeymouse](https://github.com/inogii/lacasademickeymouse): (course 1st place) Developed as part of the Machine Learning course at uc3m, the primary goal was to create a model that could predict the price of houses to participate in the course's competition. The two key components that made our model outperform others were the usage of state of the art techniques (smote-smogn) and the exploration of non linear relations among our features.
 - [Flappy Bird - Deep Reinforcement Learning](https://github.com/inogii/flappy_rl): Development of a Deep Learning based Agent trained with Reinforcement Learning techniques that is capable of playing the game Flappy Bird. All the modifications done to the original environment can be found [here](https://github.com/inogii/flappy-bird-env) to allow further experimentation. Heavily inspired by [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf).
 - [Balto-ai](https://devpost.com/software/balto-ai?ref_content=user-portfolio&ref_feature=in_progress): Project developed for the TUM-Ai Hackathon (May 2023). The goal of the project was to reduce the language barriers for emigrating workers by automating reporting processes for them. We developed a Telegram bot that could use the employer's and employee's language simultaneously, facilitating the communication between them.
 
